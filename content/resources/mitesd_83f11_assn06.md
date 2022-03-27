@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5ae390ce-7fea-f9e2-fa23-ce95300789ee
 resourcetype: Document
 title: MITESD_83F11_assn06.pdf
 uid: 9fd86108-6c3c-0b2b-db51-2a56d3891e6d
