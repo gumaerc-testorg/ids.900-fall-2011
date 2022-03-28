@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: d4e7650a-9018-f0a6-00af-6e3ab61abeb2
 ---
@@ -44,9 +45,9 @@ Guest: Joel Moses
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec01a))
+({{< resource_link 2b0a59c9-8ad8-86ad-3ceb-f9028e039e4b "PDF" >}})
 
-([PDF - 1.8MB]({{< baseurl >}}/resources/mitesd_83f11_lec01b))
+({{< resource_link 77bbb76c-dfbd-540a-5ad2-9bf92252cf6d "PDF - 1.8MB" >}})
 
 
 {{< tdclose >}}
@@ -69,7 +70,7 @@ Guest: David Kaiser
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_83f11_lec02))
+({{< resource_link b6d3af89-5bb8-dfa0-25bc-6dc6bd8fdba3 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -92,7 +93,7 @@ Guest: Oliver de Weck
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec03))
+({{< resource_link 968ae5b5-ebb8-1a8d-7e5d-c477d02a90be "PDF" >}})
 
 
 {{< tdclose >}}
@@ -117,7 +118,7 @@ Guest: Donna Rhodes
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec04))
+({{< resource_link b490bacd-7b2e-2e9f-d994-2fe16d69e56f "PDF" >}})
 
 
 {{< tdclose >}}
@@ -140,10 +141,10 @@ Guest: Mort Webster
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_83f11_lec05))
+({{< resource_link 263479e7-a374-b364-f41d-8f16533ff0e1 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec05_discuss))
+({{< resource_link a8d9582f-f55b-e0ce-f828-787fceba05bc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,10 +162,10 @@ Guest: Stuart Kauffman
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitesd_83f11_lec06))
+({{< resource_link 569fa3a8-ce57-4e4a-6d48-a72ab5b7cb6f "PDF - 1.2MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec06_discuss))
+({{< resource_link 5cb05eb8-bb0e-aaa7-e2df-65c5e776db99 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,10 +183,10 @@ Guest: Chris Kegras
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mitesd_83f11_lec07))
+({{< resource_link d121a5da-7f0d-6155-a7da-15beb5d0f50a "PDF - 1.7MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec07_discuss))
+({{< resource_link bc8dd106-2028-bccd-d7b9-1dbcff250b83 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,10 +204,10 @@ Guest: Marta Gonzalez
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mitesd_83f11_lec08))
+({{< resource_link 3d6c0051-239d-97e6-c078-c6ec84ae223e "PDF - 1.0MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
- ([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec08_discuss))
+ ({{< resource_link 7d47644d-b86c-04e2-1336-ead04bd3cb1c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ Guest: Abhijeet Banerjee
 {{< tdopen >}}
 
 
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitesd_83f11_lec10))
+({{< resource_link 3c3918a0-f2ca-0c85-3855-8a6d3d48ad55 "PDF - 1.2MB" >}})
 
 
 {{< tdclose >}}
@@ -264,10 +265,10 @@ Guest: Sandy Pentland
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec11))
+({{< resource_link 87524c2a-dde3-dfda-d881-2a3876a4b259 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec11_discuss))
+({{< resource_link d3180999-7cd8-7128-6b8c-429a4240d53f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,10 +286,10 @@ Guest: Noelle Selin
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec12))
+({{< resource_link f802cfff-daac-603d-85b5-1d5ee19f66e7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_83f11_lec12_discuss))
+({{< resource_link 163e663b-246d-3168-8097-f1cd8f285e88 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +307,7 @@ Guest: Richard de Neufville
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_83f11_lec13))
+({{< resource_link bb3c1965-3f10-4768-7d09-909f06876891 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -321,7 +322,7 @@ Guest: Richard de Neufville
 Policy design/course wrap–up
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mitesd_83f11_lec14))
+({{< resource_link 891d44aa-3d1c-71ab-97ca-364f45fefe50 "PDF - 1.0MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
