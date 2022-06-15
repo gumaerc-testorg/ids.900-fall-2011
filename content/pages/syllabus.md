@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, learning
+  objectives, the spirit of the seminar, format, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 9728c2d3-4995-90e6-eb29-be34c059fb0f
 ---
@@ -63,7 +64,7 @@ This seminar is designed to help facilitate the transition from being a student 
 Grading
 -------
 
-Course deliverables are detailed in the {{< resource_link 5ae390ce-7fea-f9e2-fa23-ce95300789ee "Assignments" >}} section of this course.
+Course deliverables are detailed in the {{% resource_link 5ae390ce-7fea-f9e2-fa23-ce95300789ee "Assignments" %}} section of this course.
 
 {{< tableopen >}}
 {{< theadopen >}}

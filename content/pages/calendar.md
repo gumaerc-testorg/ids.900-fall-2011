@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, guest
+  speakers, and assignment due dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: bca1c18c-f575-835b-323b-83c45a0dcb12
 ---
@@ -260,4 +261,4 @@ Assignment 10 due
 
 {{< tableclose >}}
 
-Additional assignments are due during TA sessions, or are assigned to students on a session–wise basis. Please see the {{< resource_link 5ae390ce-7fea-f9e2-fa23-ce95300789ee "Assignments" >}} section of this course for more information.
+Additional assignments are due during TA sessions, or are assigned to students on a session–wise basis. Please see the {{% resource_link 5ae390ce-7fea-f9e2-fa23-ce95300789ee "Assignments" %}} section of this course for more information.
