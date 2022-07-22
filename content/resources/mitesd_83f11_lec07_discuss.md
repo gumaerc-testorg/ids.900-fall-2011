@@ -5,6 +5,7 @@ file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/bc8dd10
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_83F11_lec07_discuss.pdf
 uid: bc8dd106-2028-bccd-d7b9-1dbcff250b83
 ---
 This resource contains information related to complexity and urban systems.
-

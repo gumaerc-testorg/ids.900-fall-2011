@@ -5,6 +5,7 @@ file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/891d44a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_83F11_lec14.pdf
 uid: 891d44aa-3d1c-71ab-97ca-364f45fefe50
 ---
 New file Upload
-

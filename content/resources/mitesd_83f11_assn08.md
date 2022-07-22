@@ -6,6 +6,7 @@ file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/6417445
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_83F11_assn08.pdf
 uid: 6417445c-78fc-8da8-cc22-54e873170515
 ---
 This resource contains information related to assignment 8: developing a well-posed research question.
-
