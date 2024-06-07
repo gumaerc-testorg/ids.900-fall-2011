@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to assignment 8: developing
   a well-posed research question.'
 file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/6417445c78fc8da8cc2254e873170515_MITESD_83F11_assn08.pdf
+file_size: 123187
 file_type: application/pdf
 learning_resource_types:
 - Assignments

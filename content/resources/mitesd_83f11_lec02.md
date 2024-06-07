@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to engineering systems doctoral
   seminar.
 file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/b6d3af895bb8dfa025bc6dc6bd8fdba3_MITESD_83F11_lec02.pdf
+file_size: 1167810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

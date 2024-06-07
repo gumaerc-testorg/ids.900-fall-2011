@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to uncertainty.
 file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/263479e7a374b364f41d8f16533ff0e1_MITESD_83F11_lec05.pdf
+file_size: 1231010
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
