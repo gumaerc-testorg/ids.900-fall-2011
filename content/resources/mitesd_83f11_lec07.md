@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/d121a5da7f0d6155a7da15beb5d0f50a_MITESD_83F11_lec07.pdf
+file_size: 1816813
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

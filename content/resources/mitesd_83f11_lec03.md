@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to modeling paradigms.
 file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/968ae5b5ebb81a8d7e5dc477d02a90be_MITESD_83F11_lec03.pdf
+file_size: 450599
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
