@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to cognitive science in engineering
   systems MIT.
-file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/d31809997cd871286b8c429a4240d53f_MITESD_83F11_lec11_discuss.pdf
+file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/d31809997cd871286b8c429a4240d53f_MITESD_83F11_lec11_discuss.pdf
 file_size: 278885
 file_type: application/pdf
 learning_resource_types:
