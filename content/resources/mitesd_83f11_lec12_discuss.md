@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to sustainability in enggineeringg
   systems.
-file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/163e663b246d31688097f1cd8f285e88_MITESD_83F11_lec12_discuss.pdf
+file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/163e663b246d31688097f1cd8f285e88_MITESD_83F11_lec12_discuss.pdf
 file_size: 952419
 file_type: application/pdf
 learning_resource_types:

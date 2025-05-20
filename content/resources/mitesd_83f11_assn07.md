@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to assignment 7: practicing
   systems concepts.'
-file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/9813d68e7bd5bf6a3f04c006c08dec41_MITESD_83F11_assn07.pdf
+file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/9813d68e7bd5bf6a3f04c006c08dec41_MITESD_83F11_assn07.pdf
 file_size: 114186
 file_type: application/pdf
 learning_resource_types:
