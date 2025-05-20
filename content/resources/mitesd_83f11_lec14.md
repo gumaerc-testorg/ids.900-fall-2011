@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/891d44aa3d1c71ab97ca364f45fefe50_MITESD_83F11_lec14.pdf
+file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/891d44aa3d1c71ab97ca364f45fefe50_MITESD_83F11_lec14.pdf
 file_size: 314726
 file_type: application/pdf
 learning_resource_types:

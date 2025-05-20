@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to engineering systems doctoral
   seminar.
-file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/3c3918a0f2ca0c8538558a6d3d48ad55_MITESD_83F11_lec10.pdf
+file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/3c3918a0f2ca0c8538558a6d3d48ad55_MITESD_83F11_lec10.pdf
 file_size: 1233289
 file_type: application/pdf
 learning_resource_types:
