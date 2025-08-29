@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to representing complexity.
-file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/5cb05eb8bb0eaaa7e2df65c5e776db99_MITESD_83F11_lec06_discuss.pdf
+file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/5cb05eb8bb0eaaa7e2df65c5e776db99_MITESD_83F11_lec06_discuss.pdf
 file_size: 140871
 file_type: application/pdf
 learning_resource_types:
