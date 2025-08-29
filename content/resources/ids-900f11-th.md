@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategies for advancing ES as a field. Image by MIT OpenCourseWare.
-file: /courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/28495a0327f17b3096b1ca1a4fb02bd5_ids-900f11-th.jpg
+file: /ol-ocw-studio-app/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/28495a0327f17b3096b1ca1a4fb02bd5_ids-900f11-th.jpg
 file_size: 4283
 file_type: image/jpeg
 image_metadata:
