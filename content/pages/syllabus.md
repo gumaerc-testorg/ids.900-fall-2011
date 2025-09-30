@@ -22,7 +22,7 @@ In establishing the Engineering Systems Division (ESD), MIT has embarked on a bo
 
 While certain topics, readings and guests change from year to year in this course, the focus across a broad range of topics in Engineering Systems remains the same. Throughout the term, faculty from the ESD program and other parts of MIT will be sitting in – either as invited guests or just as interested colleagues. We will give priority to comments from students, but also be sure to tap the wisdom of those who are sitting in.
 
-Readings will come from a broad range of sources. Nonetheless, we suggest that students have familiarity with [ESD symposia papers](https://web.archive.org/web/20160313214604/http://esd.mit.edu/resources/symposia.html) generated over the years.
+Readings will come from a broad range of sources. Nonetheless, we suggest that students have familiarity with {{% resource_link "5680a259-7a4b-4db9-a9cb-03236ebc7b5b" "ESD symposia papers" %}} generated over the years.
 
 Learning Objectives
 -------------------
